@@ -152,6 +152,11 @@
             <name lang="en">Groundwater quality synthesis</name>
             <abbrev>GQS</abbrev>
         </registratieobject>
+        <registratieobject>
+            <name lang="nl">Formatieweerstand onderzoek</name>
+            <name lang="en">Formation Resistance Dossier</name>
+            <abbrev>FRD</abbrev>
+        </registratieobject>
     </domein>
     
     <domein>
@@ -203,7 +208,7 @@
             <name lang="nl">Grondwaterproductiedossier</name>
             <name lang="en">Groundwater production dossier</name>
             <abbrev>GPD</abbrev>
-        </registratieobject>
+        </registratieobject>            
     </domein>
     
     <domein>
